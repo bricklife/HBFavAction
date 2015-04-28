@@ -7,4 +7,4 @@
 
 ## 参考（というかほぼそのまま）
 * http://qiita.com/takmiz/items/242f840c4ce733fd9874
-* 記事中ではSwiftのプロジェクトでは動かないとありましたが、`found`のロジックをObjective-C版に合わせたら動きました
+* 記事中にはSwift版のAction Extensionテンプレートでは動かないとありますが、`found`のロジックをObjective-C版に合わせたら動きました
