@@ -7,4 +7,4 @@
 
 ## 参考（というかほぼそのまま）
 * http://qiita.com/takmiz/items/242f840c4ce733fd9874
-* 記事の最後にあるようにSwift版のAction Extensionテンプレートはそのままでは動かないのですが、`found`のロジックをObjective-C版に合わせたら動くようになりました
+* 記事の最後にあるようにXcode 6.3のSwift版のAction Extensionテンプレートはそのままでは動かないのですが、`found`のロジックをObjective-C版に合わせたら動くようになりました
